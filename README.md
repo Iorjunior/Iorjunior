@@ -1,4 +1,4 @@
-![bash](bash.gif)
+![bash](tm.gif)
 <div id="header" align="center">
  <a src="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
