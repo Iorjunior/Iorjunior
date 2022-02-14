@@ -1,12 +1,12 @@
 ![bash](tm.gif)
 <div id="header" align="center">
- <a src="">
+ <a src="#">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
  <a src="https://www.youtube.com/channel/UCh5-nmCnFTUD2LsPTzWmdKg">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
  </a>
- <a src="">
+ <a src="https://www.instagram.com/iorjunior/">
   <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram"/>
  </a>
 </div>
