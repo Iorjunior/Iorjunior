@@ -1,6 +1,7 @@
 ![bash](tm.gif)
 
 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iorjunior/)](https://www.linkedin.com/in/iorjunior/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh5-nmCnFTUD2LsPTzWmdKg)](https://www.youtube.com/channel/UCh5-nmCnFTUD2LsPTzWmdKg)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iorjunior/)](https://www.instagram.com/iorjunior/)
 
